@@ -1,6 +1,7 @@
 ---
 title: '[part name] Add XXX page'
-assignees: ''
+name: ''
+about: ' '
 ---
 
 ## Progress
