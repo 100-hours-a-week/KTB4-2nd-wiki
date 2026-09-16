@@ -1,8 +1,8 @@
 ---
-name: '[part name] Add XXX page'
-about: '~할 예정'
-assignees: '누구'
+name: 'issue template'
+about: '이슈 템플릿을 작성합니다.'
 ---
+
 
 ## Progress
 
