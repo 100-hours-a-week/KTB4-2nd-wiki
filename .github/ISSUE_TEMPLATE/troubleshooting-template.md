@@ -6,6 +6,7 @@ labels: ''
 assignees: ''
 ---
 
+```
 # YYYY-MM-DD 오류명
 
 ## 🐞 에러 내용
@@ -19,3 +20,4 @@ assignees: ''
 
 ## 회고
 -
+```
