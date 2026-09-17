@@ -1,3 +1,12 @@
+---
+name: PM Daily Scrum
+about: 5시 30분에 오늘 한 일, 작업 내용, 공유할 내용을 작성합니다.
+title: "[PM Daily Scrum] "
+labels: ""
+assignees: ""
+---
+
+
 ```
 # 오후 데일리 공유
 
